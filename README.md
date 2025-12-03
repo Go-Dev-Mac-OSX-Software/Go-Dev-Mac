@@ -9,7 +9,7 @@
 
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Black.png" width="200"><br>
 
-<a href="https://software-apps-osx.github.io/.github/go-dev">
+<a href="https://mac-apps-install.github.io/.github/go-dev">
   <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br>
 
